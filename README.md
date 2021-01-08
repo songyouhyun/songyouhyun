@@ -1,5 +1,5 @@
-### I am a Radio Major👋
-
+## 👋Hi, I'm Song Youhyun, who a No Major
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=songyouhyun&layout=compact)
 <!--
 **songyouhyun/songyouhyun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
