@@ -1,5 +1,4 @@
 ## 👊Hi Bro, I'm Song Youhyun, who a No Major
-## Thank you to come here
 ### I want to be a Full-Stack Developer💻.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=songyouhyun&layout=compact)
