@@ -1,4 +1,4 @@
-## 👋Hi, I'm Song Youhyun, who a No Major
+## 👊Hi, Bro  I'm Song Youhyun, who a No Major
 ### I want to be a PoorTack Developer💻.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=songyouhyun&layout=compact)
@@ -7,7 +7,7 @@
 > * JavaScript
 > * Python
 
-**<h3> And I (will) learning...</h3>**
+**<h3> 🙋🏻‍♂️And I will learning...</h3>**
 > * React.js
 > * Node.js
 > * Django
