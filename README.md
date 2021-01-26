@@ -8,5 +8,4 @@
 
 **<h3> 🙋🏻‍♂️And I will learning...</h3>**
 > * React.js
-> * Node.js
 > * Django
