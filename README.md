@@ -1,5 +1,5 @@
 # 👊Hi Bro, I'm Youhyun Song
-## I want to be a Backend Developer💻.
+## I want to be a WEB Developer💻.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=songyouhyun&layout=compact)
 ### 🛠My Stack
