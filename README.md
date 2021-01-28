@@ -7,6 +7,7 @@
 <code><img height="32px" src="https://blog.kakaocdn.net/dn/bmwivs/btqBADQDtuy/rxWHuyT0EoIn0Ir0Q9e2Q1/img.png"></code>
 <code><img height="32px" src="https://cdn.worldvectorlogo.com/logos/javascript.svg"></code>
 <code><img height="32px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_python_icon_130221.png"></code>
+<code><img height="32px" src="https://images.velog.io/images/hdy20201004/post/46931f18-0eb4-468b-a61d-b740c04e4210/git_logo.png"></code>
 
 
 
