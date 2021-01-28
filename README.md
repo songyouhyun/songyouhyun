@@ -1,4 +1,4 @@
-## 👊Hi Bro, I'm Song Youhyun
+## 👊Life is too short, you need python
 ### I want to be a Developer💻.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=songyouhyun&layout=compact)
