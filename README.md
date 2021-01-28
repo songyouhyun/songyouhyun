@@ -2,7 +2,7 @@
 ## I want to be a Backend Developer💻.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=songyouhyun&layout=compact)
-<h3> 🛠My Stack </h3>
+### 🛠My Stack
 <img height="32px" src="https://w7.pngwing.com/pngs/47/692/png-transparent-responsive-web-design-html-logo-world-wide-web-angle-text-rectangle.png">
 <img height="32px" src="https://blog.kakaocdn.net/dn/bmwivs/btqBADQDtuy/rxWHuyT0EoIn0Ir0Q9e2Q1/img.png">
 <img height="32px" src="https://cdn.worldvectorlogo.com/logos/javascript.svg">
