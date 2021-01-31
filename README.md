@@ -1,5 +1,5 @@
 # 👊Hi Bro, I'm Youhyun Song
-## I want to be a WEB Developer💻.
+## I want to be a Backend-Developer💻.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=songyouhyun&layout=compact)
 ### 🛠My Stack
@@ -13,6 +13,5 @@
 
 
 
-### 🙋🏻‍♂️And I will learning...
-<code><img height="40px" src="https://cdn.auth0.com/blog/react-js/react.png"></code>
+### 🙋🏻‍♂️And I currently learning
 <code><img height="40px" src="https://blog.kakaocdn.net/dn/cVaSOX/btqD9jVw36X/jHpIEqn2EAk7xdKMMmpEP0/img.png"></code>
