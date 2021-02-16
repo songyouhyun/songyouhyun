@@ -1,6 +1,8 @@
 # 👊Hi Bro, I'm Youhyun Song
 ## I want to be a junior WEB-Developer💻.
 
+* 🏫 Affiliation : Gwangju-SoftwareMiester-Highschool<img src="https://user-images.githubusercontent.com/69895394/99774446-218a7700-2b51-11eb-9217-77c85380594c.png" align="right" width="250px">
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=songyouhyun&layout=compact)
 ### 🛠My Stack
 <code><img height="40px" src="https://w7.pngwing.com/pngs/47/692/png-transparent-responsive-web-design-html-logo-world-wide-web-angle-text-rectangle.png"></code>
