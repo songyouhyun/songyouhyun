@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=YouHyun Song&fontSize=70&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=YouHyunSong&fontSize=70&animation=twinkling)
 
 <img src="https://user-images.githubusercontent.com/69895394/99774446-218a7700-2b51-11eb-9217-77c85380594c.png" align="right" width="250px">
 
