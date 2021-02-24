@@ -1,5 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=YouHyunSong&fontSize=70&animation=twinkling)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=songyouhyun&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=YouHyun%20Song&fontSize=90&animation=twinkling)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=songyouhyun&show_icons=true&theme=highcontrast)
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
@@ -10,6 +10,7 @@
   <br>
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML&logoColor=white"/></a>&nbsp 
 </p>
 <br>
 <h3 align="center"> 🙋🏻‍♂️ How to Contact Me 🙋🏻‍♂️ </h3>
