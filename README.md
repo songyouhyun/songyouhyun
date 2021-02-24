@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=YouHyun%20Song&fontSize=90&animation=twinkling)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=songyouhyun&show_icons=true&theme=vue-dark
-)
+
+
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
@@ -19,3 +19,4 @@
   <a href="https://www.instagram.com/y_o_u_h_y_u_n/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/y_o_u_h_y_u_n/"/></a>&nbsp
   <a href="mailto:doong3373@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=doong3373@gmail.com"/></a>
 </p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=songyouhyun&show_icons=true&theme=vue-dark)
