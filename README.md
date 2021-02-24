@@ -1,9 +1,6 @@
-# 👊Hi Bro, I'm Youhyun Song
-## 💻 I want to be a junior WEB-Developer💻
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=YouHyun Song&fontSize=70&animation=twinkling)
 
 <img src="https://user-images.githubusercontent.com/69895394/99774446-218a7700-2b51-11eb-9217-77c85380594c.png" align="right" width="250px">
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=songyouhyun&layout=compact)
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 <p align="center">
