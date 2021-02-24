@@ -1,5 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=YouHyun%20Song&fontSize=90&animation=twinkling)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=songyouhyun&show_icons=true&theme=highcontrast)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=songyouhyun&show_icons=true&theme=vue-dark
+)
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
