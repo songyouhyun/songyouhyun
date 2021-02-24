@@ -10,9 +10,3 @@
 <code><img height="40px" src="https://cdn.worldvectorlogo.com/logos/javascript.svg"></code>
 <code><img height="40px" src="https://cdn.worldvectorlogo.com/logos/java.svg"></code>
 <code><img height="40px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_python_icon_130221.png"></code>
-
-
-
-
-### 🙋🏻‍♂️And I currently learning
-<code><img height="40px" src="https://blog.kakaocdn.net/dn/cVaSOX/btqD9jVw36X/jHpIEqn2EAk7xdKMMmpEP0/img.png"></code>
