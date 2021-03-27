@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=YouHyun%20Song&fontSize=90&animation=twinkling)
- <h3 align="center">🧐 Who read my profile🧐 </h3>
+ <h3 align="center">🧐 Who invite my profile🧐 </h3>
  <div align=center>
 	
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsongyouhyun)](https://hits.seeyoufarm.com) 
@@ -15,6 +15,7 @@
   <br>
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp
 </p>
 <br>
 <h3 align="center"> 🙋🏻‍♂️ How to Contact Me 🙋🏻‍♂️ </h3>
