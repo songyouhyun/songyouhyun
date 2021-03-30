@@ -27,6 +27,8 @@
   <a href="https://www.instagram.com/y_o_u_h_y_u_n/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/y_o_u_h_y_u_n/"/></a>&nbsp
   <a href="mailto:doong3373@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=doong3373@gmail.com"/></a>
 </p>
+<div align = "center">
 
+[![Top Langs](https://github-readme-stats.vercel.app/api?username=songyouhyun)](https://github.com/anuraghazra/github-readme-stats)
 
-[! [Top Langs] (https://github-readme-stats.vercel.app/api/top-langs/ ? username = songyouhyun )] (https://github.com/anuraghazra/github-readme-stats)
+</div>
