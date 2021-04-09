@@ -27,5 +27,5 @@
 <p align="center">
   <a href="https://www.instagram.com/y_o_u_h_y_u_n/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/y_o_u_h_y_u_n/"/></a>
   <a href="mailto:doong3373@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=doong3373@gmail.com"/>   </a>
-  <a href="https://open.kakao.com/o/sF9RvK8b"><img src="https://img.shields.io/badge/-FFCD00?style=flat-square&logo=KakaoTalk&logoColor=black"/>
+  <a href="https://open.kakao.com/o/sF9RvK8b"><img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=flat-square&logo=KakaoTalk&logoColor=black"/>
 </p>
