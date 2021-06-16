@@ -31,4 +31,7 @@
   <a href="https://instagram.com/y_o_u_h_y_u_n" target="_blank">
   <img src=https://img.shields.io/badge/gmail-%23000000.svg?&style=for-the-badge&logo=gmail&logoColor=EA4335 alt=instagram style="margin-bottom: 5px;" />
   </a>
+  <a href="doong3373@naver.com" target="_blank">
+  <img src=https://img.shields.io/badge/naver-%23000000.svg?&style=for-the-badge&logo=naver&logoColor=EA4335 alt=naver style="margin-bottom: 5px;" />
+  </a>
 </div>
