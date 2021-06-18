@@ -1,6 +1,5 @@
 <div align="center">
   
-  ## ```Hello World 🤟```
 
   Hi there, I am YouHyun Song who want to be **Server-Developer.**<br>
   I still in the learning stage, so it's not very good. But I currently constantly working on it.
