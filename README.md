@@ -14,10 +14,10 @@
   <code><img height="25" src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png"></code>
   
   **framework**<br>
-  <code><a href="https://nestjs.com/"><img height="25" src="https://user-images.githubusercontent.com/68471917/121983799-dd9cdf00-cdcc-11eb-85bb-f6fd9edd7224.png"></code>
-  <code><a href="https://expressjs.com/"><img height="25" src="https://media.vlpt.us/images/bbodela/post/55a2875f-62d3-47c4-9e90-b01d259e3921/express.png"></code>
-  <code><a href="https://www.djangoproject.com/"><img height="25" src="https://oopy.lazyrockets.com/api/v2/notion/image?src=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F5b6d5a6a-b8b2-4885-8b03-478901467ff5%2Fdjango.png&blockId=30537cd3-8fc3-453f-a129-ed9490da313b&width=256"></code>
-  <code><a href="https://jestjs.io/"><img height="25" src="https://mulder21c.github.io//jest/img/jest.png"></code>
+  <code><img height="25" src="https://user-images.githubusercontent.com/68471917/121983799-dd9cdf00-cdcc-11eb-85bb-f6fd9edd7224.png"></code>
+  <code><img height="25" src="https://media.vlpt.us/images/bbodela/post/55a2875f-62d3-47c4-9e90-b01d259e3921/express.png"></code>
+  <code><img height="25" src="https://blog.kakaocdn.net/dn/cVaSOX/btqD9jVw36X/jHpIEqn2EAk7xdKMMmpEP0/img.png"></code>
+  <code><img height="25" src="https://mulder21c.github.io//jest/img/jest.png"></code>
 
   **Databases**<br>
   <code><img height="25" src="http://pngimg.com/uploads/mysql/mysql_PNG23.png"></code>
