@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/68471917/123192844-a9b56e00-d4de-11eb-9c86-ddca62a884ea.png">
+  <img src="https://img1.daumcdn.net/thumb/R720x0.q80/?scode=mtistory2&fname=http%3A%2F%2Fcfile1.uf.tistory.com%2Fimage%2F998EDA3E5A6E29282ECB25">
 
   ## ``` Hello World 🤟```
   Hi there, I am YouHyun Song who want to be **Server-Developer.**<br>
@@ -17,7 +17,6 @@
   <code><img height="25" src="https://user-images.githubusercontent.com/68471917/121983799-dd9cdf00-cdcc-11eb-85bb-f6fd9edd7224.png"></code>
   <code><img height="25" src="https://media.vlpt.us/images/bbodela/post/55a2875f-62d3-47c4-9e90-b01d259e3921/express.png"></code>
   <code><img height="25" src="https://blog.kakaocdn.net/dn/cVaSOX/btqD9jVw36X/jHpIEqn2EAk7xdKMMmpEP0/img.png"></code>
-  <code><img height="25" src="https://mulder21c.github.io//jest/img/jest.png"></code>
 
   **Databases**<br>
   <code><img height="25" src="http://pngimg.com/uploads/mysql/mysql_PNG23.png"></code>
