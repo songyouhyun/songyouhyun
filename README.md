@@ -1,5 +1,5 @@
 <div align="center">
-  <img width=400 src="https://user-images.githubusercontent.com/68471917/131214445-4fef87b4-fea7-4568-966d-c99442aa0f73.JPG">
+  <img width=400 src="https://user-images.githubusercontent.com/68471917/131280406-9cd71315-dc57-428b-afe2-06f589f1ea49.JPG">
   
   ## ``` Hello World😎 ```
   안녕하세요, **서버 개발자**가 되고 싶은 송유현입니다.<br>
